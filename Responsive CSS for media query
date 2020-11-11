@@ -1,0 +1,25 @@
+
+/* Extra Large Laptop (xl) */
+@media only screen and (min-width: 1200px) {
+        /* style css */
+}
+
+/* Large Laptop (lg) */
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+        /* style css */
+}
+
+/* Tablet (md) */
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+        /* style css */
+}
+
+/* Small mobile (xs) */
+@media (max-width : 768px) {
+        /* style css */
+}
+
+/* Wide mobile (sm) */
+@media only screen and (min-width: 576px) and (max-width: 768px) {
+        /* style css */
+}
